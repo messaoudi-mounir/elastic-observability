@@ -1,3 +1,6 @@
+check also https://github.com/saeedNW/elastic-stack-docker
+
+
 <p align="center">
 <img width="500px" src="https://user-images.githubusercontent.com/16992394/147855783-07b747f3-d033-476f-9e06-96a4a88a54c6.png">
 </p>
